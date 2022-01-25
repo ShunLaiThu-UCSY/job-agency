@@ -1,0 +1,26 @@
+.form-box{
+    background-color: greenyellow;
+    width: max-content;
+    margin-top: 5px;
+    
+}
+
+.reg-form .row {
+    margin: 20px;
+}
+
+.bdr{
+    border-style: solid;
+    border-radius: 3%;
+    border-width: 1.5px;
+    border-color: rgb(97, 138, 35);
+    background-color: rgb(193, 241, 121);
+}
+.info{
+    padding: 2px;
+    margin: 5px;
+}
+
+input[type="radio"]{
+    margin: 6px;
+}
